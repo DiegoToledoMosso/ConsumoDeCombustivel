@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumoDeCombustivel.ConsoleApp", "ConsumoDeCombustivel.ConsoleApp\ConsumoDeCombustivel.ConsoleApp.csproj", "{5B0C12A6-E6CE-41C9-BF38-9176D27F3539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0C12A6-E6CE-41C9-BF38-9176D27F3539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0C12A6-E6CE-41C9-BF38-9176D27F3539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0C12A6-E6CE-41C9-BF38-9176D27F3539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0C12A6-E6CE-41C9-BF38-9176D27F3539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2674502E-3EA4-4380-835E-552F0C605BC0}
+	EndGlobalSection
+EndGlobal
